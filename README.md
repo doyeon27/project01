@@ -96,6 +96,7 @@
     * 지도에 마커 기능 구현
 
 <h2 id="notice">공지사항 페이지</h2>
+
 ![Notice](https://github.com/Hyeonim/yemaat/assets/122865860/761b725e-48fa-4451-a1ea-3351ce4145ec)
 
 » 구현 기능<br>
@@ -110,6 +111,7 @@
 
 
 <h2 id="event">이벤트 페이지</h3>
+
 ![Event](https://github.com/Hyeonim/yemaat/assets/122865860/6d3a575f-7523-4eaa-8fed-f2d3e2fba6f8)
 
 » 구현 기능<br>
