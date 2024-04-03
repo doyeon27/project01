@@ -11,8 +11,15 @@
 <ol>
 <li>
 <a href="#개요">개요</a>
-<a href="#내용">내용</a>
+</li>
+<li>
+<a href="#내용">내용</a><br>
+</li>
+<li>
 <a href="#구현 페이지 설명">구현 페이지 설명</a>
+<ul>
+<li><a href="#main">메인 페이지</a></li>
+</ul>
 </li>
 </ol>
 </details>
