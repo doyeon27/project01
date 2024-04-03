@@ -1,5 +1,4 @@
 # 예약 맛집, 예맛
-<hr>
 
 - 배포 URL : http://docs.yi.or.kr:3015/home
 - test ID : admin<br>
@@ -17,12 +16,10 @@
 </details>
 
 ## 프로젝트 소개
-<hr>
 - 대구시 내에 있는 맛집들의 정보와 위치를 제공합니다.<br>
 - 맛집 검색을 할 수 있으며 원하는 맛집을 예약을 할 수 있습니다.
 
 ## 개요
-<hr>
 💡 프로젝트 명 : 예맛<br><br>
 ⭐ 프로젝트 인원 : 5명<br><br>
 🚩 프로젝트 기간 : 2024년 1월 ~ 2024년 3월 (총 2달)<br><br>
@@ -48,23 +45,24 @@
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=doyeon27&#41;)
 
 ## 내용
-<hr>
 
 <h3>데이터베이스 구조</h3>
-![Database Structure](https://github.com/Hyeonim/yemaat/assets/122865860/37b0848a-5224-4038-9596-dfbfdf1ffe59)
+
+![Database Structure](https://github.com/doyeon27/project01/assets/149025529/be8ca77f-cd19-46c6-8ea2-f53d1794c569)
 
 <br><br>
 
 <h3>사이트 맵</h3>
-![Site Map](https://github.com/Hyeonim/yemaat/assets/122865860/fe5e91e2-1755-4798-b0d5-0a24b7d95b8c)
+
+![Site Map](https://github.com/doyeon27/project01/assets/149025529/9f3f99de-bfdf-4a48-b4f1-03742181341f)
 
 <br>
 
 ## 구현 페이지 설명
-<hr>
 
 <h3 id="main">메인 페이지</h3>
-![Main Screen](https://github.com/Hyeonim/yemaat/assets/122865860/571bbdf2-0ad1-4b3e-ab96-ee7f3e789956)
+
+![Main Screen](https://github.com/doyeon27/project01/assets/149025529/3028641a-08ef-4d01-98f3-5af53630db4f)
 
 » 구현 기능<br>
 
@@ -82,7 +80,8 @@
 
 
 <h3 id="search">검색 페이지</h2>
-![Search Screen](https://github.com/Hyeonim/yemaat/assets/122865860/ab340f39-c8c3-4f24-a259-d5249d14bbd5)
+
+![Search Screen](https://github.com/doyeon27/project01/assets/149025529/19126cf8-2856-4117-a1f9-625a738bfbc4)
 
 » 구현 기능<br>
 
@@ -98,7 +97,7 @@
 
 <h2 id="notice">공지사항 페이지</h2>
 
-![Notice](https://github.com/Hyeonim/yemaat/assets/122865860/761b725e-48fa-4451-a1ea-3351ce4145ec)
+![Notice](https://github.com/doyeon27/project01/assets/149025529/f11f78a3-2ba1-4bd2-9081-95a1d98c4402)
 
 » 구현 기능<br>
 
@@ -126,7 +125,8 @@
     * 페이징을 통해 공지사항 목록 넘기기
 
 <h2 id="restdetail">가게 상세보기 페이지</h3>
-![Store Detail](https://github.com/Hyeonim/yemaat/assets/122865860/2e549e13-636b-426b-a7b0-9d2b61e9ee84)
+
+![rest Detail](https://github.com/doyeon27/project01/assets/149025529/7e9a79b2-0ef1-4699-8523-659f5e3c0f4c)
 
 » 구현 기능<br>
 
@@ -139,7 +139,8 @@
     * 예약 기능 구현
 
 <h2 id="restdetail">마이 페이지</h3>
-![My Page](https://github.com/Hyeonim/yemaat/assets/122865860/9a234086-98f6-46ba-bd94-de5c2cbba879)
+
+![My Page](https://github.com/doyeon27/project01/assets/149025529/f9110f51-5e73-43ff-9114-44a39b028d41)
 
 » 구현 기능<br>
 
@@ -154,7 +155,8 @@
     * 리모컨 기능 구현
 
 <h2 id="restdetail">점주 페이지</h3>
-![Owner Page](https://github.com/Hyeonim/yemaat/assets/122865860/307b4a63-bc19-4ea0-bac2-743aa6ef5083)
+
+![Owner Page](https://github.com/doyeon27/project01/assets/149025529/1675e64b-6cb1-4100-9639-9b46e3a2570d)
 
 » 구현 기능<br>
 
@@ -169,7 +171,8 @@
     * 좌측 상단 로고 클릭 시 메인 페이지로 이동
 
 <h2 id="manager">관리자 페이지</h3>
-![Admin Page](https://github.com/Hyeonim/yemaat/assets/122865860/6e71a544-19b0-4ab8-8984-2ad9b86cd185)
+
+![Admin Page](https://github.com/doyeon27/project01/assets/149025529/9cb4bfd0-61c3-4cbe-a86a-f1d45800a102)
 
 » 구현 기능<br>
 
@@ -192,7 +195,8 @@
     * 좌측 상단 로고 클릭 시 메인 페이지로 이동
 
 <h2 id="login">로그인 페이지 및 푸터 영역</h3>
-![Login Page](https://github.com/Hyeonim/yemaat/assets/122865860/93008dad-f4a8-4022-bbc8-353f29aea916)
+
+![Login Page](https://github.com/doyeon27/project01/assets/149025529/b6055e37-3707-4dc5-80cc-8fdae479afc3)
 
 » 구현 기능<br>
 
@@ -222,7 +226,6 @@
 
 
 ## 프로젝트 후기
-<hr>
 ㅁㄹㅇㄴㅁㄹㄴㅁㅇㄹㄴㅁㄹㅇ
 
 
