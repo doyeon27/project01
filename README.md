@@ -8,7 +8,7 @@
 
 <br>
 
-<details open="open">
+<details>
 <summary>목록보기</summary>
 <ol>
 <li>
