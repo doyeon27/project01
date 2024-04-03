@@ -1,4 +1,6 @@
-# 예약 맛집, 예맛
+# 🍰 예약 맛집, 예맛
+
+![project](https://github.com/doyeon27/project01/assets/149025529/0fa1f12e-2516-499e-8bba-82a91a359efd)
 
 - 배포 URL : http://docs.yi.or.kr:3015/home
 - test ID : admin<br>
