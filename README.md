@@ -42,7 +42,9 @@
 ⭐ 프로젝트 인원 : 5명<br><br>
 🚩 프로젝트 기간 : 2024년 1월 ~ 2024년 3월 (총 2달)<br><br>
 
-내가 맡은 역할 : 관리자 페이지
+😎 내가 맡은 역할 : 관리자 페이지
+
+<br>
 
 ⌨️ **개발 환경 :**<br><br>
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
