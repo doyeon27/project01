@@ -16,9 +16,18 @@
 <a href="#내용">내용</a><br>
 </li>
 <li>
-<a href="# 구현 페이지 설명">구현 페이지 설명</a>
+<a href="#avatar">구현 페이지</a>
 <ul>
-<li><a href="#main">메인 페이지</a></li>
+<li><a href="#main">메인 페이지</a></li> 
+<li><a href="#search">검색 페이지</a></li> 
+<li><a href="#notice">공지사항 페이지</a></li> 
+<li><a href="#event">이벤트 페이지</a></li> 
+<li><a href="#restdetail">가게 상세보기 페이지</a></li> 
+<li><a href="#mypage">마이 페이지</a></li> 
+<li><a href="#ownerpage">점주 페이지</a></li> 
+<li><a href="#manager">관리자 페이지</a></li> 
+<li><a href="#login">로그인 페이지</a></li> 
+<li><a href="#singup">회원가입 페이지</a></li> 
 </ul>
 </li>
 </ol>
@@ -49,10 +58,6 @@
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)<br><br>
 
-[//]: # (️**기술 사용 빈도 :**<br><br>)
-
-[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=doyeon27&#41;)
-
 ## 내용
 
 <h3>데이터베이스 구조</h3>
@@ -67,7 +72,8 @@
 
 <br>
 
-## 구현 페이지 설명
+[//]: # (## 구현_페이지)
+<h2 id="avatar">구현 페이지</h2>
 
 <h3 id="main">메인 페이지</h3>
 
@@ -104,7 +110,7 @@
 
     * 지도에 마커 기능 구현
 
-<h2 id="notice">공지사항 페이지</h2>
+<h3 id="notice">공지사항 페이지</h3>
 
 ![Notice](https://github.com/doyeon27/project01/assets/149025529/f11f78a3-2ba1-4bd2-9081-95a1d98c4402)
 
@@ -119,7 +125,7 @@
     * 페이징을 통해 공지사항 목록 넘기기
 
 
-<h2 id="event">이벤트 페이지</h3>
+<h3 id="event">이벤트 페이지</h3>
 
 ![Event](https://github.com/Hyeonim/yemaat/assets/122865860/6d3a575f-7523-4eaa-8fed-f2d3e2fba6f8)
 
@@ -133,7 +139,7 @@
 
     * 페이징을 통해 공지사항 목록 넘기기
 
-<h2 id="restdetail">가게 상세보기 페이지</h3>
+<h3 id="restdetail">가게 상세보기 페이지</h3>
 
 ![rest Detail](https://github.com/doyeon27/project01/assets/149025529/7e9a79b2-0ef1-4699-8523-659f5e3c0f4c)
 
@@ -147,7 +153,7 @@
 
     * 예약 기능 구현
 
-<h2 id="restdetail">마이 페이지</h3>
+<h3 id="mypage">마이 페이지</h3>
 
 ![My Page](https://github.com/doyeon27/project01/assets/149025529/f9110f51-5e73-43ff-9114-44a39b028d41)
 
@@ -163,7 +169,7 @@
 
     * 리모컨 기능 구현
 
-<h2 id="restdetail">점주 페이지</h3>
+<h3 id="ownerpage">점주 페이지</h3>
 
 ![Owner Page](https://github.com/doyeon27/project01/assets/149025529/1675e64b-6cb1-4100-9639-9b46e3a2570d)
 
@@ -179,7 +185,7 @@
 
     * 좌측 상단 로고 클릭 시 메인 페이지로 이동
 
-<h2 id="manager">관리자 페이지</h3>
+<h3 id="manager">관리자 페이지</h3>
 
 ![Admin Page](https://github.com/doyeon27/project01/assets/149025529/9cb4bfd0-61c3-4cbe-a86a-f1d45800a102)
 
@@ -203,7 +209,7 @@
 
     * 좌측 상단 로고 클릭 시 메인 페이지로 이동
 
-<h2 id="login">로그인 페이지 및 푸터 영역</h3>
+<h3 id="login">로그인 페이지 및 푸터 영역</h3>
 
 ![Login Page](https://github.com/doyeon27/project01/assets/149025529/b6055e37-3707-4dc5-80cc-8fdae479afc3)
 
@@ -217,7 +223,7 @@
 
     * 아이디, 비밀번호 찾기 가능
 
-<h2 id="singup">회원가입 페이지</h3>
+<h3 id="singup">회원가입 페이지</h3>
 
 ![Sign_Up](https://github.com/doyeon27/project01/assets/149025529/e5d37cc7-713c-44f6-bf53-0b8f697b7c22)
 
